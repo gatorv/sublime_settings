@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Agila Theme",
+		"ayu",
+		"ChangeQuotes",
+		"Codecs33",
+		"Color Highlighter",
+		"Color Scheme - Thunderstorm",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Fix Mac Path",
+		"Git",
+		"GitGutter",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"PackageSync",
+		"phpfmt",
+		"SideBarTools",
+		"Skins",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeHighlight",
+		"Theme - amCoder",
+		"Theme - Cobalt2",
+		"Theme - Spacegray",
+		"Xdebug Client"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight/tree/python3"
+	]
+}
